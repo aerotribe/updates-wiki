@@ -1,3 +1,21 @@
+# Update - June 17, 2025
+
+## New Features Released!
+
+- Nothing
+- I only added this to make it longer
+- Improved performance and loading speed. (again)
+- Fixed bugs. (OHHH YEAH!!!!)
+
+## Upcoming
+
+- Planning to add user comments on updates.
+- Planning to create this
+
+Thanks for following the project! Hopefully this will come out soon!
+
+---
+
 # 🚀 Update - June 16, 2025
 
 ## New Features Released!
@@ -21,18 +39,19 @@ Test for people who seperate like this :facepalm:
 
 ---
 
-# Update - June 17, 2025
+## Update 2
 
-## New Features Released!
+Released new features.
 
-- Nothing
-- I only added this to make it longer
-- Improved performance and loading speed. (again)
-- Fixed bugs. (OHHH YEAH!!!!)
+---
 
-## Upcoming
+## Update 1
 
-- Planning to add user comments on updates.
-- Planning to create this
+Bug fixes and performance improvements.
 
-Thanks for following the project! Hopefully this will come out soon!
+---
+
+## First Commit
+
+(Not really)
+
