@@ -13,3 +13,8 @@
 - Mobile app version in development.
 
 Thanks for following the project! 🎉
+
+
+---------------------------------------------
+
+Test for people who seperate like this :facepalm:
